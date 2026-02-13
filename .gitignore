@@ -1,0 +1,6 @@
+data/
+outputs/*
+!outputs/*.csv
+.venv/
+__pycache__/
+*.log
